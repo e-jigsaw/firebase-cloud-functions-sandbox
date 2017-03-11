@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "firebase-cloud-functions",
+  "description": "firebase cloud funcitons sandbox",
+  "main": "index.js",
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^3.5.0"
+  }
+}
